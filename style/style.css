@@ -1,0 +1,15 @@
+h1{
+    padding-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic ;
+    
+}
+h4{
+    font-size: 15px;
+    font-style: inherit;
+    color: black 
+}
+.img_inicio{
+    padding-top: 100px;    
+    width: 50%;       
+}
